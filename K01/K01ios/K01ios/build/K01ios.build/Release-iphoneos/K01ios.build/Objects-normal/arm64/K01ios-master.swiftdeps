@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "5140e70db238dcffcb05116438549a2a"
+build_time: [1592251066, 59446000]
+inputs:
+  "/Users/martin/development/masterarbeit/K01/ios/K01ios/K01ios/ViewController.swift": [9223372036, 854775807]
+  "/Users/martin/development/masterarbeit/K01/ios/K01ios/K01ios/AppDelegate.swift": [9223372036, 854775807]

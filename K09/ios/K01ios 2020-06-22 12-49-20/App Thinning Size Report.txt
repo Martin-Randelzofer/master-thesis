@@ -1,0 +1,8 @@
+
+App Thinning Size Report for All Variants of K01ios
+
+Variant: K01ios-7E367E21-B664-49A0-94EC-06E9B3B8D6CA.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 12.2], [device: iPhone6,1, os-version: 12.2], [device: iPhone8,4, os-version: 12.2], [device: iPhone7,2, os-version: 12.2], [device: iPod7,1, os-version: 12.2], [device: iPod9,1, os-version: 12.2], and [device: iPhone6,2, os-version: 12.2]
+App + On Demand Resources size: 43 KB compressed, 128 KB uncompressed
+App size: 43 KB compressed, 128 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
